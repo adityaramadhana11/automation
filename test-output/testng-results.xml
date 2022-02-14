@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82695" started-at="2022-02-14T02:36:16Z" finished-at="2022-02-14T02:37:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82695" started-at="2022-02-14T02:36:16Z" finished-at="2022-02-14T02:37:39Z">
+      <class name="com.aditya.testsuites.TS001">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="setUp" is-config="true" duration-ms="19116" started-at="2022-02-14T09:36:17Z" finished-at="2022-02-14T09:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC001" duration-ms="8875" started-at="2022-02-14T09:36:36Z" finished-at="2022-02-14T09:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="TC002()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC002" duration-ms="4469" started-at="2022-02-14T09:36:45Z" finished-at="2022-02-14T09:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="TC003()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC003" duration-ms="8763" started-at="2022-02-14T09:36:49Z" finished-at="2022-02-14T09:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method status="PASS" signature="TC004()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC004" duration-ms="9198" started-at="2022-02-14T09:36:58Z" finished-at="2022-02-14T09:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="TC005()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC005" duration-ms="8948" started-at="2022-02-14T09:37:07Z" finished-at="2022-02-14T09:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+        <test-method status="PASS" signature="TC006()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC006" duration-ms="15863" started-at="2022-02-14T09:37:16Z" finished-at="2022-02-14T09:37:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006 -->
+        <test-method status="PASS" signature="TC007()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC007" duration-ms="2408" started-at="2022-02-14T09:37:32Z" finished-at="2022-02-14T09:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007 -->
+        <test-method status="PASS" signature="TC008()[pri:0, instance:com.aditya.testsuites.TS001@7880cdf3]" name="TC008" duration-ms="5018" started-at="2022-02-14T09:37:34Z" finished-at="2022-02-14T09:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008 -->
+      </class> <!-- com.aditya.testsuites.TS001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
